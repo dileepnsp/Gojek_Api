@@ -2,7 +2,7 @@
 
 Install
 #######
-# clone the repository
+
 $ git clone https://github.com/dileepnsp/Gojek_Api.git
 $ cd flask
 $ cd webapp/Source
